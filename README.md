@@ -2,7 +2,7 @@ ScalAM
 ======
 **NOTE: Currently this is pre-alpha stuff, so don't waste your time here if you're looking for something to use in Production**
 
-An opinionated micro-framework for Scala, using Scalatra, Angular, Akka and MongoDB, built on top of the Respite REST micro-framework.
+An opinionated framework for Scala, using Scalatra, Angular, Akka and MongoDB, built on top of the Respite REST micro-framework.
 
 ##Getting started
 Make sure you have 2 choices: 
